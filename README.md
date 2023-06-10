@@ -6,3 +6,5 @@ foobar2000皮肤 https://github.com/dream7180/foobox-cn
   
 
 windows优化工具  https://www.hibitsoft.ir/
+图片编辑器  http://www.imagemagick.com.cn/
+视频编辑器  https://ffmpeg.org/
