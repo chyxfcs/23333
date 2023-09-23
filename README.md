@@ -7,4 +7,4 @@ windows优化工具  https://www.hibitsoft.ir/
 图片编辑器  http://www.imagemagick.com.cn/  https://www.reaconverter.com/
 视频编辑器  https://ffmpeg.org/
 pdf工具https://www.pdfgear.com/ 或者使用破解版Adobe Acrobat Pro DC 
-yt-dlp 使用方法http://geekdaxue.co/read/daoyou@blog/eb4x1l
+yt-dlp 使用方法http://geekdaxue.co/read/daoyou@blog/eb4x1l 注：代理应该是 --proxy socks5://127.0.0.1:10808
